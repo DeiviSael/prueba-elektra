@@ -1,0 +1,259 @@
+2023-10-29 20:20:36,134 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 12652 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:20:36,135 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:20:37,528 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:20:37,572 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:20:37,761 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:20:37,907 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:20:38,213 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:20:38,230 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:20:38,730 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:20:40,273 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.549 seconds (JVM running for 5.408)
+2023-10-29 20:20:40,435 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:20:40,437 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:28:22,340 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 20252 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:28:22,342 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:28:23,883 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:28:23,932 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:28:24,141 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:28:24,310 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:28:24,645 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:28:24,667 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:28:25,227 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:28:27,217 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.362 seconds (JVM running for 6.775)
+2023-10-29 20:28:27,426 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:28:27,430 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:30:08,227 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 3728 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:30:08,230 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:30:09,690 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:30:09,736 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:30:09,912 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:30:10,057 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:30:10,367 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:30:10,385 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:30:10,922 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:30:12,839 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.11 seconds (JVM running for 6.234)
+2023-10-29 20:30:56,630 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46s148ms951µs300ns).
+2023-10-29 20:31:50,210 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=53s580ms478µs700ns).
+2023-10-29 20:31:52,707 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:31:52,711 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:35:43,881 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 16496 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:35:43,883 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:35:45,331 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:35:45,387 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:35:45,579 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:35:45,723 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:35:46,016 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:35:46,034 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:35:46,591 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:35:48,399 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.009 seconds (JVM running for 6.106)
+2023-10-29 20:37:04,254 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m18s126ms561µs800ns).
+2023-10-29 20:37:04,270 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:37:04,273 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:37:48,121 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 16476 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:37:48,122 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:37:49,578 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:37:49,629 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:37:49,817 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:37:49,965 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:37:50,290 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:37:50,310 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:37:50,872 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:37:52,719 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.067 seconds (JVM running for 6.208)
+2023-10-29 20:38:27,201 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - Test
+2023-10-29 20:38:37,776 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 20:39:24,839 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m599ms947µs800ns).
+2023-10-29 20:39:24,859 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:39:24,864 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:40:40,004 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 6032 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:40:40,005 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:40:41,583 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:40:41,627 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:40:41,812 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:40:41,955 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:40:42,255 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:40:42,274 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:40:42,791 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:40:44,498 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.954 seconds (JVM running for 6.031)
+2023-10-29 20:41:00,911 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - Test
+2023-10-29 20:41:00,925 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 20:42:04,691 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m22s334ms958µs900ns).
+2023-10-29 20:42:04,708 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:42:04,712 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:49:39,438 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 17248 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:49:39,440 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:49:40,929 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:49:40,981 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:49:41,188 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:49:41,328 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:49:41,641 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:49:41,662 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:49:42,254 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:49:44,022 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.051 seconds (JVM running for 6.149)
+2023-10-29 20:50:01,518 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - Test
+2023-10-29 20:50:01,523 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 20:51:08,166 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m26s411ms931µs600ns).
+2023-10-29 20:51:08,182 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:51:08,186 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:53:03,398 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 13256 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:53:03,400 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:53:04,872 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:53:04,921 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:53:05,126 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:53:05,269 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:53:05,587 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:53:05,618 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:53:06,162 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:53:07,926 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.996 seconds (JVM running for 6.181)
+2023-10-29 20:53:27,656 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev
+2023-10-29 20:53:27,660 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 20:54:04,685 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=58s993ms763µs800ns).
+2023-10-29 20:54:04,700 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:54:04,703 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:55:00,931 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 3952 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:55:00,932 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:55:02,493 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:55:02,538 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:55:02,768 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:55:02,915 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:55:03,226 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:55:03,245 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:55:03,839 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:55:05,561 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.109 seconds (JVM running for 6.189)
+2023-10-29 20:55:09,631 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev
+2023-10-29 20:55:09,636 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 20:55:57,077 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 20:55:57,080 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 20:58:59,571 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 18472 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 20:58:59,574 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 20:59:01,072 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 20:59:01,123 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 20:59:01,369 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 20:59:01,513 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 20:59:01,881 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 20:59:01,900 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 20:59:02,529 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 20:59:04,393 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.287 seconds (JVM running for 6.342)
+2023-10-29 20:59:19,119 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev
+2023-10-29 20:59:30,309 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 20:59:39,314 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Se crea el Cliente id 2 correctamente
+2023-10-29 21:00:10,333 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 21:00:10,335 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 21:02:50,556 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 10812 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 21:02:50,559 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 21:02:52,011 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 21:02:52,060 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 21:02:52,242 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 21:02:52,380 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 21:02:52,682 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 21:02:52,701 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 21:02:53,205 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 21:02:54,959 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.857 seconds (JVM running for 5.973)
+2023-10-29 21:03:02,514 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev
+2023-10-29 21:03:03,509 [main] ERROR c.e.e.d.v.Impl.NombreUnicoValidator - Cliente con el nombre TestDev ya existe
+2023-10-29 21:08:34,621 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m41s832ms746µs300ns).
+2023-10-29 21:08:34,637 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 21:08:34,641 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 21:08:42,930 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 9788 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 21:08:42,932 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 21:08:44,432 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 21:08:44,475 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 21:08:44,649 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 21:08:44,789 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 21:08:45,097 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 21:08:45,114 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 21:08:45,633 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 21:08:47,546 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.074 seconds (JVM running for 6.144)
+2023-10-29 21:08:47,654 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev
+2023-10-29 21:08:47,846 [main] ERROR c.e.e.d.v.Impl.NombreUnicoValidator - Cliente con el nombre TestDev ya existe
+2023-10-29 21:08:47,888 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 21:08:47,892 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 21:09:04,117 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 20500 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 21:09:04,121 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 21:09:05,640 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 21:09:05,690 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 21:09:05,908 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 21:09:06,051 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 21:09:06,369 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 21:09:06,389 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 21:09:06,963 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 21:09:08,850 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 5.169 seconds (JVM running for 6.277)
+2023-10-29 21:09:08,932 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev1
+2023-10-29 21:09:09,079 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 21:09:09,134 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Se crea el Cliente id 3 correctamente
+2023-10-29 21:09:09,179 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 21:09:09,182 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 21:11:02,112 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 17252 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 21:11:02,114 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 21:11:03,467 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 21:11:03,510 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 21:11:03,697 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 21:11:03,846 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 21:11:04,123 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 21:11:04,143 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 21:11:04,640 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 21:11:06,167 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.493 seconds (JVM running for 5.402)
+2023-10-29 21:11:06,243 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev
+2023-10-29 21:11:06,382 [main] ERROR c.e.e.d.v.Impl.NombreUnicoValidator - Cliente con el nombre TestDev ya existe
+2023-10-29 21:11:06,399 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev2
+2023-10-29 21:11:06,400 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 21:11:06,456 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Se crea el Cliente id 4 correctamente
+2023-10-29 21:11:06,481 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 21:11:06,484 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 21:11:48,100 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 13280 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 21:11:48,101 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 21:11:49,471 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 21:11:49,519 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 21:11:49,720 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 21:11:49,870 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 21:11:50,147 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 21:11:50,163 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 21:11:50,657 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 21:11:52,210 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.524 seconds (JVM running for 5.415)
+2023-10-29 21:11:52,292 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev2
+2023-10-29 21:11:52,437 [main] ERROR c.e.e.d.v.Impl.NombreUnicoValidator - Cliente con el nombre TestDev2 ya existe
+2023-10-29 21:11:52,461 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 21:11:52,463 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-29 21:12:04,906 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 18152 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-29 21:12:04,907 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-29 21:12:06,248 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-29 21:12:06,290 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-29 21:12:06,431 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-29 21:12:06,558 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-29 21:12:06,829 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-29 21:12:06,847 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-29 21:12:07,319 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-29 21:12:08,893 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.426 seconds (JVM running for 5.265)
+2023-10-29 21:12:08,977 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev3
+2023-10-29 21:12:09,107 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-29 21:12:09,164 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Se crea el Cliente id 5 correctamente
+2023-10-29 21:12:09,212 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-29 21:12:09,215 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-30 00:03:04,463 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 7336 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-30 00:03:04,464 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-30 00:03:05,786 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-30 00:03:05,830 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-30 00:03:05,993 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-30 00:03:06,120 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-30 00:03:06,390 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-30 00:03:06,405 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-30 00:03:06,871 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-30 00:03:08,381 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.343 seconds (JVM running for 5.211)
+2023-10-30 00:03:08,447 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev
+2023-10-30 00:03:08,573 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia mapeo de clienteRequestDto a Cliente
+2023-10-30 00:03:08,633 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Se crea el Cliente id 2 correctamente
+2023-10-30 00:03:08,677 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-30 00:03:08,680 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2023-10-30 00:05:23,440 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Starting ClienteServiceApplicationTest using Java 20.0.2 on Deivi-PC with PID 9176 (started by DEIVI in D:\Entrevistas\Elektra\Practica\microservicios\cliente-service)
+2023-10-30 00:05:23,442 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - No active profile set, falling back to 1 default profile: "default"
+2023-10-30 00:05:24,788 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-10-30 00:05:24,835 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.6.7.Final
+2023-10-30 00:05:25,013 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-10-30 00:05:25,134 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2023-10-30 00:05:25,416 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2023-10-30 00:05:25,438 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2023-10-30 00:05:25,943 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-10-30 00:05:27,466 [main] INFO  c.e.e.d.ClienteServiceApplicationTest - Started ClienteServiceApplicationTest in 4.443 seconds (JVM running for 5.3)
+2023-10-30 00:05:27,549 [main] INFO  c.e.e.d.s.impl.ClienteServiceImpl - Inicia la validación del objeto clienteRequestDto - TestDev
+2023-10-30 00:05:27,695 [main] ERROR c.e.e.d.v.Impl.NombreUnicoValidator - Cliente con el nombre TestDev ya existe
+2023-10-30 00:05:27,719 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2023-10-30 00:05:27,721 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
